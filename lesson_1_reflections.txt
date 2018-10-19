@@ -1,0 +1,11 @@
+git Log
+git diff
+git log --statistics
+git clone (url)
+git config --global color.ui auto
+git l+Tab
+scp
+mv
+subl
+
+

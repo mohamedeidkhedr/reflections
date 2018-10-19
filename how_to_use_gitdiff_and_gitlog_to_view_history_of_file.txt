@@ -1,0 +1,3 @@
+by logging with git log we can have history of all commits
+then by copying and pasting ids of two commits after git diff 
+now we get all differences between the two commits
